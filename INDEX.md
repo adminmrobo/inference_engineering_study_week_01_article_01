@@ -15,7 +15,7 @@
 | `LiveBench_해설_대시보드.vi.html` | Tiếng Việt판 (같은 내용의 Tiếng Việt 번역) | 약 827KB |
 
 - 기반 논문: Colin White, Samuel Dooley, Manley Roberts, Arka Pal et al., 「LiveBench: A Challenging, Contamination-Limited LLM Benchmark」, **ICLR 2025**.
-- 등장인물: 박사(DOC) · 조수 세라(ASST) · 초파리 연구원(FLY) · Money-Robo(ROBO).
+- 등장인물: 박사(DOC) · 조수 세라(ASST) · 초파리 연구원(FLY) · 주판봇(ROBO).
 
 ## 2. 이미지 11장 (`images/`) — 본문에는 전부 base64로 내장
 
@@ -29,7 +29,7 @@
 | 6 | `thumb_lb.png` | thumb_lb | I 600×400 | 목차 썸네일 · 파비콘 | ✅ 1차 통과 |
 | 7 | `og_lb.png` | og_lb | K 1200×630 | 소셜 공유 미리보기(og:image) | ✅ 크롭 안전 |
 | 8 | `fly_point.png` | fly_point | C 220×220 투명 | 대결 전 초파리(의심 포인팅) | ✅ 1차 통과 |
-| 9 | `robo_coin.png` | robo_coin | D 180×200 투명 | 대결 전 로보(금화 확신) | ✅ `EYES ONLY` |
+| 9 | `robo_coin.png` | robo_coin | D 180×200 투명 | 대결 전 로보(주판 확신) | ✅ `EYES ONLY` |
 | 10 | `fly_arms.png` | fly_arms | C 220×220 투명 | 대결 후 초파리(승리 만세) | ✅ 1차 통과 |
 | 11 | `robo_sigh.png` | robo_sigh | D 180×200 투명 | 대결 후 로보(패배 시무룩) | ✅ `EYES ONLY` |
 
@@ -42,7 +42,7 @@
 | 파일 | 내용 |
 |---|---|
 | `README.md` | 저장소 소개 — 한국어 → English → 中文 → 日本語 → Oʻzbekcha → Русский → Tiếng Việt 순으로 조립 |
-| `image_prompts_lb.md` | 이미지 11장의 생성 프롬프트 전문(상수·명령·검수 결과·머니로보 입 수술 레시피) |
+| `image_prompts_lb.md` | 이미지 11장의 생성 프롬프트 전문(상수·명령·검수 결과·옛 로봇(교체 전) 입 수술 레시피) |
 
 ## 4. GitHub 업로드 순서 (직접 업로드용)
 

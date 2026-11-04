@@ -8,7 +8,7 @@
 <a id="ko"></a>
 ## 한국어
 
-ICLR 2025에 발표된 LLM 벤치마크 논문 「LiveBench: A Challenging, Contamination-Limited LLM Benchmark」(Colin White, Samuel Dooley, Manley Roberts, Arka Pal et al.)을 연구실 네 친구들 — 박사 · 조수 세라 · 초파리 연구원 · Money-Robo — 의 대화로 풀어 설명하는 인터랙티브 대시보드다.
+ICLR 2025에 발표된 LLM 벤치마크 논문 「LiveBench: A Challenging, Contamination-Limited LLM Benchmark」(Colin White, Samuel Dooley, Manley Roberts, Arka Pal et al.)을 연구실 네 친구들 — 박사 · 조수 세라 · 초파리 연구원 · 주판봇 — 의 대화로 풀어 설명하는 인터랙티브 대시보드다.
 
 "AI가 시험을 미리 외웠다면 그 점수는 진짜 실력일까?"라는 질문에서 시작해, 데이터 오염(기출 과적합)이 점수를 어떻게 부풀리는지 직접 실험하고, LiveBench가 매월 문제를 갈아 끼우고 LLM 판사를 배제하는 이유를 눈으로 확인한다.
 
@@ -65,7 +65,7 @@ image_prompts_lb.md            이미지 생성 프롬프트 전문
 
 ### 라이선스
 - 코드: Apache License 2.0 / 콘텐츠·이미지: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.ko) (페이지 메타에는 CC BY 4.0으로도 표기됨 — 하나로 통일 권장)
-- 출처 표기 예: 「LiveBench 해설 대시보드」 LB-01, 안상선((주)M-Robo), CC BY-SA 4.0
+- 출처 표기 예: 「LiveBench 해설 대시보드」 LB-01, 안상선, CC BY-SA 4.0
 - 원 논문: White et al., "LiveBench: A Challenging, Contamination-Limited LLM Benchmark", ICLR 2025
 
 ---
@@ -73,7 +73,7 @@ image_prompts_lb.md            이미지 생성 프롬프트 전문
 <a id="en"></a>
 ## English
 
-An interactive dashboard that explains the ICLR 2025 paper "LiveBench: A Challenging, Contamination-Limited LLM Benchmark" (Colin White, Samuel Dooley, Manley Roberts, Arka Pal et al.) through a lab crew of four: the Doctor, the Assistant (Sera), the Fruit Fly Researcher, and Money-Robo.
+An interactive dashboard that explains the ICLR 2025 paper "LiveBench: A Challenging, Contamination-Limited LLM Benchmark" (Colin White, Samuel Dooley, Manley Roberts, Arka Pal et al.) through a lab crew of four: the Doctor, the Assistant (Sera), the Fruit Fly Researcher, and AbaBot.
 
 It starts from one question — "If an AI memorized the exam in advance, is its score real ability?" — and lets you run the experiments yourself: how data contamination (overfitting to past exams) inflates scores, and why LiveBench refreshes its problems every month and excludes LLM judges.
 
@@ -126,14 +126,14 @@ image_prompts_lb.md            full image-generation prompts
 
 ### License
 - Code: Apache License 2.0 · Text & images: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en) (the page meta also shows CC BY 4.0 — pick one)
-- Attribution example: "LiveBench Explainer Dashboard" LB-01, Ahn Sangsun (M-Robo Co., Ltd.), CC BY-SA 4.0
+- Attribution example: "LiveBench Explainer Dashboard" LB-01, Ahn Sangsun, CC BY-SA 4.0
 
 ---
 
 <a id="zh"></a>
 ## 中文
 
-一个交互式讲解页面，用研究室的四位成员——博士、助手Sera、果蝇研究员和Money-Robo——的对话来讲解 ICLR 2025 论文《LiveBench: A Challenging, Contamination-Limited LLM Benchmark》（Colin White、Samuel Dooley、Manley Roberts、Arka Pal 等）。
+一个交互式讲解页面，用研究室的四位成员——博士、助手Sera、果蝇研究员和算盘宝——的对话来讲解 ICLR 2025 论文《LiveBench: A Challenging, Contamination-Limited LLM Benchmark》（Colin White、Samuel Dooley、Manley Roberts、Arka Pal 等）。
 
 从"如果 AI 提前背下了考题，这个分数还算真实实力吗？"这个问题出发，你将亲手做实验，看看数据污染（对旧题的过拟合）如何抬高分数，并直观理解 LiveBench 为什么每月更新题目、为什么不使用 LLM 评委。
 
@@ -186,14 +186,14 @@ image_prompts_lb.md            图像生成提示词全文
 
 ### 许可
 - 代码：Apache License 2.0 · 文字与图像：[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.zh-hans)（页面元数据中亦标为 CC BY 4.0——建议统一）
-- 署名示例：《LiveBench 讲解仪表盘》LB-01，Ahn Sangsun（M-Robo 株式会社），CC BY-SA 4.0
+- 署名示例：《LiveBench 讲解仪表盘》LB-01，Ahn Sangsun，CC BY-SA 4.0
 
 ---
 
 <a id="ja"></a>
 ## 日本語
 
-ICLR 2025で発表されたLLMベンチマーク論文「LiveBench: A Challenging, Contamination-Limited LLM Benchmark」（Colin White、Samuel Dooley、Manley Roberts、Arka Pal ら）を、研究室の仲間四人——博士・助手セラ・ショウジョウバエ研究員・Money-Robo——の対話で解説するインタラクティブ・ダッシュボードである。
+ICLR 2025で発表されたLLMベンチマーク論文「LiveBench: A Challenging, Contamination-Limited LLM Benchmark」（Colin White、Samuel Dooley、Manley Roberts、Arka Pal ら）を、研究室の仲間四人——博士・助手セラ・ショウジョウバエ研究員・アバボット——の対話で解説するインタラクティブ・ダッシュボードである。
 
 「AIが試験を丸暗記していたら、その点数は実力といえるのか？」という問いから始め、データ汚染（過去問への過剰適合）が点数をどう膨らませるかを自分の手で確かめ、LiveBenchが毎月問題を刷新しLLM審査員を使わない理由を目で見て理解する。
 
@@ -246,14 +246,14 @@ image_prompts_lb.md            画像生成プロンプト全文
 
 ### ライセンス
 - コード：Apache License 2.0 · 本文・画像：[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.ja)（ページメタではCC BY 4.0とも表記——統一推奨）
-- 出典表記例：「LiveBench解説ダッシュボード」LB-01、アン・サンソン（株式会社M-Robo）、CC BY-SA 4.0
+- 出典表記例：「LiveBench解説ダッシュボード」LB-01、アン・サンソン、CC BY-SA 4.0
 
 ---
 
 <a id="uz"></a>
 ## Oʻzbekcha
 
-ICLR 2025 da taqdim etilgan «LiveBench: A Challenging, Contamination-Limited LLM Benchmark» (Colin White, Samuel Dooley, Manley Roberts, Arka Pal va boshqalar) maqolasini laboratoriya jamoasi — Doktor, Yordamchi Sera, Drozofila tadqiqotchisi va Money-Robo — suvbatlari orqali tushuntiruvchi interaktiv panel.
+ICLR 2025 da taqdim etilgan «LiveBench: A Challenging, Contamination-Limited LLM Benchmark» (Colin White, Samuel Dooley, Manley Roberts, Arka Pal va boshqalar) maqolasini laboratoriya jamoasi — Doktor, Yordamchi Sera, Drozofila tadqiqotchisi va AbaBot — suvbatlari orqali tushuntiruvchi interaktiv panel.
 
 «AI imtihonni oldindan yodlab qoʻygan boʻlsa, uning bali haqiqiy qobiliyatmi?» degan savoldan boshlanadi: maʼlumot ifloslanishi (eski savollarga moslashib qolish) balni qanday sunʼiy koʻtarishini oʻzingiz sinab koʻrasiz va LiveBench nima uchun savollarni har oy yangilashi hamda LLM hakamlarni islatmasligi kerakligini koʻrib tushunasiz.
 
@@ -306,14 +306,14 @@ image_prompts_lb.md            rasm yaratish promtlari toʻliq matni
 
 ### Litsenziya
 - Kod: Apache License 2.0 · Matn va rasmlar: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en) (sahifa metasida CC BY 4.0 ham yozilgan — bittasiga keltirish tavsiya etiladi)
-- Koʻrsatma: "LiveBench tushuntirish paneli" LB-01, Ahn Sangsun (M-Robo), CC BY-SA 4.0
+- Koʻrsatma: "LiveBench tushuntirish paneli" LB-01, Ahn Sangsun, CC BY-SA 4.0
 
 ---
 
 <a id="ru"></a>
 ## Русский
 
-Интерактивная пояснительная панель к статье «LiveBench: A Challenging, Contamination-Limited LLM Benchmark» (Colin White, Samuel Dooley, Manley Roberts, Arka Pal и др.), представленной на ICLR 2025: её ведут четверо сотрудников лаборатории — Доктор, Ассистент Сера, Исследователь-дрозофила и Робот Money-Robo.
+Интерактивная пояснительная панель к статье «LiveBench: A Challenging, Contamination-Limited LLM Benchmark» (Colin White, Samuel Dooley, Manley Roberts, Arka Pal и др.), представленной на ICLR 2025: её ведут четверо сотрудников лаборатории — Доктор, Ассистент Сера, Исследователь-дрозофила и Робот АбаБот.
 
 Всё начинается с вопроса: «Если ИИ заранее вызубрил экзамен, означает ли его балл настоящий уровень?» Вы сами ставите опыты и видите, как загрязнение данных (переобучение на старых заданиях) завышает баллы, и наглядно понимаете, почему LiveBench обновляет задания каждый месяц и обходится без LLM-судей.
 
@@ -366,14 +366,14 @@ image_prompts_lb.md            полные тексты промптов для
 
 ### Лицензия
 - Код: Apache License 2.0 · Текст и изображения: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.ru) (в метаданных страницы указан и CC BY 4.0 — стоит унифицировать)
-- Пример указания: «LiveBench. Пояснительная панель» LB-01, Ан Сансон (M-Robo Co., Ltd.), CC BY-SA 4.0
+- Пример указания: «LiveBench. Пояснительная панель» LB-01, Ан Сансон, CC BY-SA 4.0
 
 ---
 
 <a id="vi"></a>
 ## Tiếng Việt
 
-Bảng điều khiển tương tác giải thích bài báo ICLR 2025 «LiveBench: A Challenging, Contamination-Limited LLM Benchmark» (Colin White, Samuel Dooley, Manley Roberts, Arka Pal và cộng sự) thông qua bốn thành viên phòng thí nghiệm: Tiến sĩ, Trợ lý Sera, Nhà nghiên cứu Ruồi giấm và Robot Money-Robo.
+Bảng điều khiển tương tác giải thích bài báo ICLR 2025 «LiveBench: A Challenging, Contamination-Limited LLM Benchmark» (Colin White, Samuel Dooley, Manley Roberts, Arka Pal và cộng sự) thông qua bốn thành viên phòng thí nghiệm: Tiến sĩ, Trợ lý Sera, Nhà nghiên cứu Ruồi giấm và Robot AbaBot.
 
 Trang bắt đầu từ câu hỏi "Nếu AI đã học thuộc đề thi từ trước, thì điểm đó có phải năng lực thật không?"; bạn sẽ tự tay làm thí nghiệm để xem ô nhiễm dữ liệu (quá khớp với đề cũ) làm điểm số phình to thế nào, và hiểu trực quan vì sao LiveBench thay đề mỗi tháng và không dùng "giám khảo LLM".
 
@@ -426,4 +426,4 @@ image_prompts_lb.md            toàn văn prompt tạo ảnh
 
 ### Giấy phép
 - Mã nguồn: Apache License 2.0 · Văn bản & hình ảnh: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.vi) (meta của trang cũng ghi CC BY 4.0 — nên thống nhất một loại)
-- Cách ghi nguồn: "Bảng giải thích LiveBench" LB-01, Ahn Sangsun (M-Robo Co., Ltd.), CC BY-SA 4.0
+- Cách ghi nguồn: "Bảng giải thích LiveBench" LB-01, Ahn Sangsun, CC BY-SA 4.0
